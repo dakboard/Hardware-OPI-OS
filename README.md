@@ -5,6 +5,10 @@ Based on DAKboard OS for the Raspberry Pi, DAKboard OPI-OS is a simple way to co
 ## Installation
 Instructions for installing DAKboard OS can be found <a href="https://dakboard.freshdesk.com/support/solutions/articles/35000210494-orange-pi-download-and-install-dakboard-os">here</a>.
 
+The following devices are currently supported:
+- Orange Pi 3 LTS
+- Orange Pi 4 LTS
+
 ## Feature Requests
 See the <a href="https://github.com/dakboard/Hardware-OPI-OS/discussions">Discussions</a> tab for open feature requests and to add your suggestion.
 
