@@ -22,4 +22,4 @@ Visit our <a href="https://dakboard.com/support">Support Site</a> to view help d
 - Visit <a href="https://dakboard.com">https://dakboard.com</a> for more info.  
 - View the <a href="https://github.com/dakboard/Cloud-Platform/releases/">Release Notes</a> to see what features and functionality has been added recently. 
 - Check our <a href="https://blog.dakboard.com">Blog</a> for tips, tricks and the latest DAKboard news.
-- Looking for the DAKboard OS for the Raspberry Pi?  Check out our bitbucket page <a href="https://github.com/dakboard/Hardware-OS">here</a>
+- Looking for the DAKboard OS for the Raspberry Pi?  Check out the Hardware-OS bitbucket page <a href="https://github.com/dakboard/Hardware-OS">here</a>.
