@@ -3,7 +3,7 @@
 Based on <a href="https://github.com/dakboard/Hardware-OS">DAKboard OS for the Raspberry Pi</a>, DAKboard OPI-OS is a simple way to connect to DAKboard using a Orange Pi computer.  DAKboard is a customizable display for photos, calendar, news, weather and so much more! DAKboard makes it easy to get organized so you won’t miss a thing.
 
 ## 05/01/2024 Update:
-Feature Requests have been paused until the Orange Pi 3 LTS Bookworm kernal is available from <a href="http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-pi-3-LTS.html">Orange Pi</a>.  Major bug support will continue via this github project.
+Feature Requests have been paused until the Orange Pi 3 LTS Bookworm kernel is available from <a href="http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-pi-3-LTS.html">Orange Pi</a>.  Major bug support will continue via this github project.
 
 
 ## Installation
